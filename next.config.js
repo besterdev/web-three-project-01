@@ -6,7 +6,7 @@ const nextConfig = {
     SERVER_URL: process.env.NEXT_PUBLIC_SERVER_URL,
   },
   images: {
-    domains: ["avatars.dicebear.com", "links.papareact.com"],
+    domains: ["avatars.dicebear.com", "links.papareact.com", "i.pinimg.com"],
   },
 };
 
